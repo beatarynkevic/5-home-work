@@ -1,3 +1,19 @@
 body {
-    background-image: url('violet\ error.jpg');
+    background-color: #7A5BA7; 
 }
+    div {
+        display: inline-block;
+        background-image: url('./list.png');
+        background-repeat:no-repeat;
+        background-position:center center;
+        background-size: auto;
+        margin: 160px 0 0 160px;
+        padding: 15px;
+    }
+         h1 {
+             font-size: 100px;
+             text-align: center;
+             color: #ffffff;
+         }
+    img { 
+        float: right;}
